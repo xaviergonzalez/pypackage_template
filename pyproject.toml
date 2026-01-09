@@ -12,7 +12,7 @@ requires-python = ">=3.9"
 dependencies = [
     "ipykernel",
     "tqdm",
-    "plotnine",
+    "matplotlib",
     "wandb",
     "pytest",
     "hydra-core",
